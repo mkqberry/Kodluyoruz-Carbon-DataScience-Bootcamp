@@ -5,6 +5,7 @@ Veri setinin özellikleri aşağıdaki gibi olmalıdır:
 - Oluşturduğunuz veri seti en az 100 adet satır içermelidir.
 - Yazılı veri ise CSV veya JSON formatında olmalı, sinyal verisi (görüntü, ses) ise verinin kendisi ayrı dosyada olup her bir veri parçası için ilgili bilgilerin bulunduğu bir CSV dosyası da hazırlanmalıdır.
 -Yasal olarak veri setinin çekilmesine bir engel olmaması ve çektikten sonra github ve kaggle üzerinden paylaşılması gerekmektedir.
+
 Şunların bulunması iyi olacaktır, bu maddeler ZORUNLU DEĞİLDİR:
 
 - Ne kadar çok veri içerirse o kadar iyidir.
