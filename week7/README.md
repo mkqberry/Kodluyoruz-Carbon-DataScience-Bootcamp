@@ -4,4 +4,4 @@
 - Python math
 - Python os
 ## Usage
-python make_ascii.py
+python make_asci.py
