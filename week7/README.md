@@ -3,3 +3,5 @@
 - OpenCv
 - Python math
 - Python os
+## Usage
+"python make_ascii.py"
